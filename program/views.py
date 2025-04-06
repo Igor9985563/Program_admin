@@ -3,4 +3,4 @@ from django.shortcuts import render
 
 
 def index(request):
-    return HttpResponse("Hello, wasdasorld. You're at the polls index.")
+    return HttpResponse("Hello, wasxcxdasorld. You're at the polls index.")
